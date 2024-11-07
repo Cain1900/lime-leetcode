@@ -111,11 +111,12 @@ public class Week20240414 {
 
         List<Integer> list = new ArrayList<>();
         for(int i = 0; i < coins.length; i++){
-            for (int j = 0; )
+
         }
+        return left;
     }
 
-    
+
 
 
 
